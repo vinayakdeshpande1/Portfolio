@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8241905a.css",
+    "main.js": "/static/js/main.0c31151b.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Project-Management-Software.jpg": "/static/media/Project-Management-Software.aec1806d35bd146ffbcd.jpg",
+    "static/media/VInayak_Deshpande_Resume.pdf": "/static/media/VInayak_Deshpande_Resume.f424f72d826c0796d99a.pdf",
+    "static/media/ecommerce.jpg": "/static/media/ecommerce.990fb12b783000af56e3.jpg",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatapplication.jpg": "/static/media/chatapplication.49ff2bb7b94564f70702.jpg",
+    "static/media/vinayak.jpg": "/static/media/vinayak.91df20bbaab3a4fad46a.jpg",
+    "static/media/medibot.jpeg": "/static/media/medibot.0c6e00c82de0c17d68be.jpeg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/voicedr.jpg": "/static/media/voicedr.844aed0cb2b5bbe71e97.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.8241905a.css.map": "/static/css/main.8241905a.css.map",
+    "main.0c31151b.js.map": "/static/js/main.0c31151b.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8241905a.css",
+    "static/js/main.0c31151b.js"
+  ]
+}
