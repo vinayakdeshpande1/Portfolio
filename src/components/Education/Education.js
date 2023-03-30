@@ -23,16 +23,16 @@ function Education() {
       "title": "Student",
       "organization": "Tripura Junior College",
       "organizationLogo": logos.tripura,
-      "duration": "May 2018 - May 2019",
+      "duration": "August 2017 - May 2019",
       "description": [],
      // "skills": "Software Development, Front-End Development,Git, User Interface Design, AJAX, Bootstrap, REST APIs, PHP, React, JavaScript",
       "educationType": "Student",
     },
     {
-      "title": "Data Scientist",
+      "title": "Student",
       "organization": "Keshavraj Vidyalay Latur",
       "organizationLogo": logos.keshavraj,
-      "duration": "May 2016 - May 2017",
+      "duration": "May 2007 - May 2017",
       "description": [
         "Developed frontend for fundraising portal of the organization",
         "Assisting and collaborating with the teammates to work on HTML, CSS, JS, Bootstrap, PHP and various APIs"

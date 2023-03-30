@@ -39,16 +39,16 @@ function educationCard(props) {
                         })
                     }
                 </p>
-                <p className={`text-wrap ${skills.length === 0 ? "d-none" : ""} skills`}>
+                {/* <p className={`text-wrap ${skills && skills.length === 0 ? "d-none" : ""} skills`}>
                     <span className={`me-2 fw-bolder`}>Skills: </span>
                     {
-                        skills.split(",").map((skill, index) => {
+                        skills && skills.split(",").map((skill, index) => {
                             return (
                                 <span className="me-2" key={index}>&#x2022; {skill}</span>
                             )
                         })
                     }
-                </p>
+                </p> */}
             </Card.Body>
         </Card>
     );
