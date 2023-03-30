@@ -7,6 +7,8 @@ import { Link } from "react-router-dom";
 import { CgGitFork } from "react-icons/cg";
 import { ImBlog } from "react-icons/im";
 import { MdOutlineWorkOutline } from "react-icons/md"
+import { MdCastForEducation } from "react-icons/md"
+
 import {
   AiFillStar,
   AiOutlineHome,
@@ -99,7 +101,7 @@ function NavBar() {
                 to="/education"
                 onClick={() => updateExpanded(false)}
               >
-                <MdOutlineWorkOutline
+                <MdCastForEducation
                   style={{ marginBottom: "2px" }}
                 />{" "}
                 Education

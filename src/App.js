@@ -7,6 +7,7 @@ import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
 import Experiences from "./components/Experiences/Experiences";
+import Education from "./components/Education/Education";
 
 
 import {
@@ -43,6 +44,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
           <Route path="/experiences" element={<Experiences />} />
+          <Route path="/education" element={<Education />} />
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />

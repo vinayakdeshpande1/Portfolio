@@ -1,0 +1,9 @@
+.skills {
+	max-width: 400px;
+	white-space: nowrap;
+	display: -webkit-box;
+	-webkit-line-clamp: 4;
+	-webkit-box-orient: vertical;
+	overflow: hidden !important;
+	text-overflow: ellipsis;
+}
