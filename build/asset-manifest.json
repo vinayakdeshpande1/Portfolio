@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.c31de340.css",
-    "main.js": "/static/js/main.7939ac8c.js",
+    "main.js": "/static/js/main.2c5f742f.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Project-Management-Software.jpg": "/static/media/Project-Management-Software.aec1806d35bd146ffbcd.jpg",
     "static/media/VInayak_Deshpande_Resume.pdf": "/static/media/VInayak_Deshpande_Resume.f424f72d826c0796d99a.pdf",
+    "static/media/tripura.jpg": "/static/media/tripura.bd9c317e6ffdc25b6973.jpg",
     "static/media/codekul.png": "/static/media/codekul.2ddef7c88c21036fb108.png",
     "static/media/ecommerce.jpg": "/static/media/ecommerce.990fb12b783000af56e3.jpg",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
@@ -17,15 +18,16 @@
     "static/media/medibot.jpeg": "/static/media/medibot.0c6e00c82de0c17d68be.jpeg",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/voicedr.jpg": "/static/media/voicedr.844aed0cb2b5bbe71e97.jpg",
+    "static/media/MITAOE.jpg": "/static/media/MITAOE.ee03aa9bc6dcac010a47.jpg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.c31de340.css.map": "/static/css/main.c31de340.css.map",
-    "main.7939ac8c.js.map": "/static/js/main.7939ac8c.js.map",
+    "main.2c5f742f.js.map": "/static/js/main.2c5f742f.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c31de340.css",
-    "static/js/main.7939ac8c.js"
+    "static/js/main.2c5f742f.js"
   ]
 }
