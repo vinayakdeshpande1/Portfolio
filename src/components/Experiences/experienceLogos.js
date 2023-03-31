@@ -1,8 +1,8 @@
-import principal from "D:/Vinayak_Portfolio/src/Assets/experiences/principal.jpg";
-import medlife from "D:/Vinayak_Portfolio/src/Assets/experiences/medlife.jpg";
-import vieh from "D:/Vinayak_Portfolio/src/Assets/experiences/vieh.jpg";
-import codekul from "D:/Vinayak_Portfolio/src/Assets/experiences/codekul.png";
-import codingclub from "D:/Vinayak_Portfolio/src/Assets/experiences/codingclub.png";
+import principal from "../../Assets/experiences/principal.jpg";
+import medlife from "../../Assets/experiences/medlife.jpg";
+import vieh from "../../Assets/experiences/vieh.jpg";
+import codekul from "../../Assets/experiences/codekul.png";
+import codingclub from "../../Assets/experiences/codingclub.png";
 
 export {
     principal,
